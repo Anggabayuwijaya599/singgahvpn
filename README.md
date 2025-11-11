@@ -2,7 +2,7 @@
 
 ## 1. DAFTARKAN IP VPS DI FILE IJIN LINK DI BAWAH INI :
 
-https://raw.githubusercontent.com/Anggabayuwijaya599/singgahvpn/refs/heads/main/izin
+https://github.com/Anggabayuwijaya599/singgahvpn/blob/main/izin
 
 
 
