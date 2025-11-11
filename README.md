@@ -4,13 +4,23 @@
 
 https://raw.githubusercontent.com/Anggabayuwijaya599/singgahvpn/refs/heads/main/izin
 
+
+
+
+
+
 ## 2. COPY PASTE SCRIPT LINK UNTUK INSTALL BERIKUT INI KE VPS :
+
 
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/Anggabayuwijaya599/installsinggah/refs/heads/main/vpn && chmod +x vpn && sed -i -e 's/\r$//' vpn && screen -S setup ./vpn
 ```
 
+
+
 ## 3. MASUKAN SUBDOMAIN.DOMAIN KE DALAM VPS YANG SEDANG DI INSTALL KETIKA DI MINTA MASUKAN DOMAIN
+
+
 ## 4. SETELAH SELESAI INSTALL OTOMATIS AKAN REBOOT VPS ATAU JIKA DI MINTA REBOT TEKAN YES ATAU ENTER
 
 
