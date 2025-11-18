@@ -29,8 +29,6 @@ sudo chmod +x /usr/local/bin/xray
 /usr/local/bin/xray version
 sudo systemctl start xray
 sudo systemctl enable xray
-sudo systemctl status xray
-sudo journalctl -u xray -f
 ```
 
 ### 6. SELESAI PROSSES INSTALLASI SELESAI DAN VPS SIAP DI GUNAKAN
