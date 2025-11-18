@@ -37,7 +37,7 @@ sudo systemctl enable xray
 
 ================================= JIKA VPS UBUNTU LEBIH DARI UBUNTU 20.0.4 WAJIB DOWNGRADE KE UBUNTU 20.0.4========================
 ###  COPY PASTE LINK BERIKUT UNTUK DOWNGRADE VPS KE UBUNTU 20
->>> ganti (PASSWORD_KAMU) MEnjadi pasword vps yang mudah di ingat
+
 
 ```
 curl -O https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/reinstall.sh
@@ -45,6 +45,7 @@ chmod +x reinstall.sh
 bash reinstall.sh debian 11 --password PASSWORD_KAMU
 ```
 
+#### >>> ganti (PASSWORD_KAMU) MEnjadi pasword vps yang mudah di ingat
 
 
 
