@@ -15,7 +15,7 @@ mv bot/* /usr/bin
 chmod +x /usr/bin/*
 rm -rf bot.zip
 clear
-wget hhttps://github.com/Anggabayuwijaya599/SinggahVpn/raw/refs/heads/main/bot/kyt.zip
+wget https://github.com/Anggabayuwijaya599/SinggahVpn/raw/refs/heads/main/bot/kyt.zip
 unzip kyt.zip
 pip3 install -r kyt/requirements.txt
 
