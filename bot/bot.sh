@@ -9,13 +9,13 @@ NC='\e[0m'
 apt update && apt upgrade
 apt install python3 python3-pip git
 cd /usr/bin
-wget https://raw.githubusercontent.com/Anggabayuwijaya599/installsinggah/refs/heads/main/bot/bot.zip
+wget https://github.com/Anggabayuwijaya599/SinggahVpn/raw/refs/heads/main/bot/bot.zip
 unzip bot.zip
 mv bot/* /usr/bin
 chmod +x /usr/bin/*
 rm -rf bot.zip
 clear
-wget https://raw.githubusercontent.com/Anggabayuwijaya599/installsinggah/refs/heads/main/bot/kyt.zip
+wget hhttps://github.com/Anggabayuwijaya599/SinggahVpn/raw/refs/heads/main/bot/kyt.zip
 unzip kyt.zip
 pip3 install -r kyt/requirements.txt
 
